@@ -1,0 +1,9 @@
+numpy==1.26.4
+torch==2.0.1+cpu
+torchaudio==2.0.2+cpu
+pytorch-lightning==2.0.9
+torchmetrics==0.11.4
+soundfile
+librosa
+scipy
+pyannote.audio==3.1.1

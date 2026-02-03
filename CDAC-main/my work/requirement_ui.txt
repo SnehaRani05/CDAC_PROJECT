@@ -1,0 +1,23 @@
+# Python version (documented, not installed by pip)
+# Python==3.10.19
+
+# Core ML stack (SUPPORTED)
+torch==2.2.2
+torchaudio==2.2.2
+torchvision==0.17.2
+numpy==1.26.4
+
+# Speaker diarization
+pyannote.audio==3.1.1
+huggingface_hub==0.20.3
+
+# FastAPI backend
+fastapi==0.110.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+
+# Data handling
+pandas==2.2.1
+
+# ngrok
+pyngrok==7.1.6

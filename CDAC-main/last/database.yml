@@ -1,0 +1,11 @@
+Databases:
+  HindiDataset:
+    - dataset
+
+Protocols:
+  HindiDataset:
+    SpeakerDiarization:
+      train:
+        scope: file
+      development:
+        scope: file
